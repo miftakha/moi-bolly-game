@@ -147,8 +147,7 @@ Seeing the game come to life and be playable was one of the most rewarding exper
 
 ## Repository Structure
 - Assets/
-- Scripts/
-- Scenes/
+- Packages/
 - ProjectSettings/
 
 (Full Unity project included)
